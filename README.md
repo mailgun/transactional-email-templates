@@ -4,7 +4,7 @@ Better readme coming soon...
 
 * [Alert](http://mailgun.github.io/transactional-email-templates/alert.html)
 * [Action](http://mailgun.github.io/transactional-email-templates/action.html)
-* [Receipt/Invoice](http://mailgun.github.io/transactional-email-templates/receipt.html)
+* [Billing](http://mailgun.github.io/transactional-email-templates/billing.html)
 
 # Tested and verified
 
