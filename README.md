@@ -1,12 +1,12 @@
 # Responsive Transactional HTML email templates
 
+Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers.
+
 <p align="center"><img src="https://mailgun.ghost.io/content/images/2014/Aug/icons.png" height="100"></p>
 
-* [Action](http://mailgun.github.io/transactional-email-templates/action.html)
-* [Alert](http://mailgun.github.io/transactional-email-templates/alert.html)
-* [Billing](http://mailgun.github.io/transactional-email-templates/billing.html)
-
-Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers.
+* [Action email](http://mailgun.github.io/transactional-email-templates/action.html)
+* [Email alert](http://mailgun.github.io/transactional-email-templates/alert.html)
+* [Billing email](http://mailgun.github.io/transactional-email-templates/billing.html)
 
 We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email.
 
