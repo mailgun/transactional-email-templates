@@ -1,5 +1,6 @@
 /* -------------------------------------
     GLOBAL
+    A very basic CSS reset
 ------------------------------------- */
 * {
   margin: 0;
@@ -160,10 +161,6 @@ a {
   margin-top: 0;
 }
 
-.padding {
-  padding: 10px 0;
-}
-
 .aligncenter {
   text-align: center;
 }
@@ -181,7 +178,8 @@ a {
 }
 
 /* -------------------------------------
-    Alerts
+    ALERTS
+    Change the class depending on warning email, good email or bad email
 ------------------------------------- */
 .alert {
   font-size: 16px;
@@ -209,6 +207,7 @@ a {
 
 /* -------------------------------------
     INVOICE
+    Styles for the billing table
 ------------------------------------- */
 .invoice {
   margin: 40px auto;
