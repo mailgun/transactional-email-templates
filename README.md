@@ -1,4 +1,4 @@
-# Responsive Transactional HTML email templates
+# Responsive transactional HTML email templates
 
 Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers.
 
