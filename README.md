@@ -44,6 +44,8 @@ Our repo contains both the original templates with a separate CSS stylesheet, as
 
 We’ve tested these email templates across all the major desktop, web and mobile clients, using Litmus. [See the test results.](https://litmus.com/pub/3a573b5/screenshots)
 
+<img src="http://i.imgur.com/eX9fYwL.png">
+
 ## Email design workflow with Grunt
 
 You also might be interested in this [Grunt task](https://github.com/leemunroe/grunt-email-design)  for compiling and testing html emails. We used this to help design and test our transactional emails.
