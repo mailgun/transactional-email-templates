@@ -232,6 +232,10 @@ a {
     RESPONSIVE AND MOBILE FRIENDLY STYLES
 ------------------------------------- */
 @media only screen and (max-width: 640px) {
+  body {
+    /* Apple iOS Mail app defaults to 20px which makes our template too skinny */
+    padding: 10px;
+  }
   h1, h2, h3, h4 {
     font-weight: 600 !important;
     margin: 20px 0 5px !important;
