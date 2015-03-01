@@ -237,7 +237,8 @@ a {
     padding: 10px;
   }
   h1, h2, h3, h4 {
-    font-weight: 600 !important;
+    /* Use 800 or 400; 600 looks wonky on iOS 8 */
+    font-weight: 800 !important;
     margin: 20px 0 5px !important;
   }
 
