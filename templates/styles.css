@@ -233,7 +233,7 @@ a {
 ------------------------------------- */
 @media only screen and (max-width: 640px) {
   h1, h2, h3, h4 {
-    font-weight: 600 !important;
+    font-weight: 800 !important;
     margin: 20px 0 5px !important;
   }
 
