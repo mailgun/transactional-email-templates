@@ -232,6 +232,10 @@ a {
     RESPONSIVE AND MOBILE FRIENDLY STYLES
 ------------------------------------- */
 @media only screen and (max-width: 640px) {
+  body {
+    padding: 0 !important;
+  }
+
   h1, h2, h3, h4 {
     font-weight: 800 !important;
     margin: 20px 0 5px !important;
@@ -250,10 +254,15 @@ a {
   }
 
   .container {
+    padding: 0 !important;
     width: 100% !important;
   }
 
-  .content, .content-wrap {
+  .content {
+    padding: 0 !important;
+  }
+
+  .content-wrap {
     padding: 10px !important;
   }
 
