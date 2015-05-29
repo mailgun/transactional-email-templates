@@ -18,7 +18,9 @@ body {
   -webkit-text-size-adjust: none;
   width: 100% !important;
   height: 100%;
-  line-height: 1.6;
+  line-height: 1.6em;
+  /* 1.6em * 14px = 22.4px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+  /*line-height: 22px;*/
 }
 
 /* Let's make sure all tables have defaults */
@@ -85,6 +87,7 @@ body {
   color: #999;
 }
 .footer p, .footer a, .footer unsubscribe, .footer td {
+  color: #999;
   font-size: 12px;
 }
 
@@ -95,21 +98,27 @@ h1, h2, h3 {
   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   color: #000;
   margin: 40px 0 0;
-  line-height: 1.2;
+  line-height: 1.2em;
   font-weight: 400;
 }
 
 h1 {
   font-size: 32px;
   font-weight: 500;
+  /* 1.2em * 32px = 38.4px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+  /*line-height: 38px;*/
 }
 
 h2 {
   font-size: 24px;
+  /* 1.2em * 24px = 28.8px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+  /*line-height: 29px;*/
 }
 
 h3 {
   font-size: 18px;
+  /* 1.2em * 18px = 21.6px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+  /*line-height: 22px;*/
 }
 
 h4 {
@@ -140,7 +149,9 @@ a {
   background-color: #348eda;
   border: solid #348eda;
   border-width: 10px 20px;
-  line-height: 2;
+  line-height: 2em;
+  /* 2em * 14px = 28px, use px to get airier line-height also in Thunderbird, and Yahoo!, Outlook.com, AOL webmail clients */
+  /*line-height: 28px;*/
   font-weight: bold;
   text-align: center;
   cursor: pointer;
