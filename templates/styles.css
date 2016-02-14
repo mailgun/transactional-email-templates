@@ -43,7 +43,9 @@ body {
 .container {
   display: block !important;
   max-width: 600px !important;
-  margin: 0 auto !important;
+  /* Margin, with a capital "M", centers the container in Outlook.com */
+  /* Note: Premailer and other CSS inliners will uncapitalize "margin", so you might want to re-capitalize it by hand in your final email(s) */
+  Margin: 0 auto !important;
   /* makes it centered */
   clear: both !important;
 }
@@ -94,7 +96,9 @@ body {
 h1, h2, h3 {
   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   color: #000;
-  margin: 40px 0 0;
+  /* Margin, with a capital "M", makes margins work properly in Outlook.com */
+  /* Note: Premailer and other CSS inliners will uncapitalize "margin", so you might want to re-capitalize it by hand in your final email(s) */
+  Margin: 40px 0 0;
   line-height: 1.2em;
   font-weight: 400;
 }
@@ -217,7 +221,9 @@ a {
     Styles for the billing table
 ------------------------------------- */
 .invoice {
-  margin: 40px auto;
+  /* Margin, with a capital "M", makes margins work properly in Outlook.com */
+  /* Note: Premailer and other CSS inliners will uncapitalize "margin", so you might want to re-capitalize it by hand in your final email(s) */
+  Margin: 40px auto;
   text-align: left;
   width: 80%;
 }
