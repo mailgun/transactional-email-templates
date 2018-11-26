@@ -7,16 +7,17 @@
 <link href="styles.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/EmailMessage">
 
 <table class="body-wrap">
 	<tr>
 		<td></td>
 		<td class="container" width="600">
 			<div class="content">
-				<table class="main" width="100%" cellpadding="0" cellspacing="0">
+				<table class="main" width="100%" cellpadding="0" cellspacing="0" itemprop="action" itemscope itemtype="http://schema.org/ConfirmAction">
 					<tr>
 						<td class="content-wrap">
+							<meta itemprop="name" content="Confirm Email"/>
 							<table width="100%" cellpadding="0" cellspacing="0">
 								<tr>
 									<td class="content-block">
@@ -29,8 +30,8 @@
 									</td>
 								</tr>
 								<tr>
-									<td class="content-block">
-										<a href="http://www.mailgun.com" class="btn-primary">Confirm email address</a>
+									<td class="content-block" itemprop="handler" itemscope itemtype="http://schema.org/HttpActionHandler">
+										<a href="http://www.mailgun.com" class="btn-primary" itemprop="url">Confirm email address</a>
 									</td>
 								</tr>
 								<tr>
