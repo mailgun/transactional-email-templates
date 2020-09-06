@@ -36,7 +36,7 @@ Typically any email that is triggered by or sent automatically from your applica
 
 Before sending HTML emails **you should inline your CSS**.
 
-We recommend using [Premailer](http://premailer.dialect.ca/) to accomplish this.
+We recommend using [Premailer](https://www.mrtemplates.com/premailer/) to accomplish this.
 
 Our repo contains both the original templates with a separate CSS stylesheet, as well as templates with CSS already inlined for you to preview. See the `/templates/inlined` folder.
 
