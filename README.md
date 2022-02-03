@@ -44,7 +44,7 @@ Our repo contains both the original templates with a separate CSS stylesheet, as
 
 We’ve tested these email templates across all the major desktop, web and mobile clients, using [Email on Acid.](https://www.emailonacid.com/)
 
-<img src="http://i.imgur.com/eX9fYwL.png">
+<img src="/assets/EoA.jpg">
 
 ## Email design workflow with Grunt
 
