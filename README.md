@@ -4,7 +4,6 @@ Transactional HTML emails often get neglected. **Styling HTML email is painful**
 
 We’ve tried to remove some of the pain for you and open-sourced a collection of common templates for transactional email.
 
-<p align="center"><img src="https://mailgun.ghost.io/content/images/2014/Aug/icons.png" width="500"></p>
 
 * [Action email](http://mailgun.github.io/transactional-email-templates/action.html)
 * [Email alert](http://mailgun.github.io/transactional-email-templates/alert.html)
