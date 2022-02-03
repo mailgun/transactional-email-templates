@@ -42,7 +42,7 @@ Our repo contains both the original templates with a separate CSS stylesheet, as
 
 ## Tested and verified
 
-We’ve tested these email templates across all the major desktop, web and mobile clients, using Litmus. [See the test results.](https://litmus.com/pub/333e2b6/screenshots)
+We’ve tested these email templates across all the major desktop, web and mobile clients, using [Email on Acid.](https://www.emailonacid.com/)
 
 <img src="http://i.imgur.com/eX9fYwL.png">
 
